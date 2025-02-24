@@ -1,0 +1,35 @@
+/*
+MY COLOR PALETTE
+Color 1 - #82FF9E
+Color 2 - #0C8346
+Color 3 - #311E10
+Color 4 - #44CCFF
+Color 5 - #FFC145
+*/
+body {
+    background-color: beige;
+    text-align: center;
+}
+button {
+    background-color: #82FF9E;
+    color: #311E10;
+    font-family: "Merriweather", serif; 
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    width: 200px;
+    padding: 10px;
+    margin: 50px;
+    border:none; 
+    border-radius: 15px; /* Rounded corners */
+}
+button:hover {
+    background-color: #44CCFF;
+}
+h1 {
+    font-family: "DM Serif Text", serif;
+}
+h2 {
+    font-family: "Merriweather", serif;
+}
+
