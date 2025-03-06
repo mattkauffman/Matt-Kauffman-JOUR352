@@ -1,0 +1,39 @@
+/* #82FF9E
+ * #0C8346
+ * #311E10
+ * #44CCFF
+ * #FFC145 */
+
+
+h1{
+    color: black;
+    font-family: Impact, Haettenschweiler,;
+    background-color: #FFC145;
+    border-style: solid;
+    border-color: black;
+    margin: 5 px; 
+    
+}
+h2{
+    font-family: Georgia;
+    background-color: #FFC145;
+    border-style: groove;
+}
+img{
+    width: 100%
+}
+button {
+    background-color: #44CCFF;
+    color: #311E10;
+    font-family: "Merriweather", serif; 
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    border:none; 
+    border-radius: 15px; /* Rounded corners */
+}
+button:hover {
+    background-color: #82FF9E;}
