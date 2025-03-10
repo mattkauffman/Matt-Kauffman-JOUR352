@@ -4,20 +4,27 @@
  * #44CCFF
  * #FFC145 */
 
-
+@media { 
 h1{
-    color: black;
-    font-family: Impact, Haettenschweiler,;
-    background-color: #FFC145;
+    color: white;
+    font-family: poppins;
+    font-weight: bold;
+    background-color: #0c8346;
     border-style: solid;
-    border-color: black;
-    margin: 5 px; 
+    border-color: white;
+    margin: 3 px; 
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: underline;
     
 }
 h2{
-    font-family: Georgia;
-    background-color: #FFC145;
-    border-style: groove;
+    font-family: poppins;
+    background-color: #0c8346;
+    border-style: solid;
+    color: white;
+    border-radius: 10px;
+    text-align: center
 }
 img{
     width: 100%
@@ -37,3 +44,15 @@ button {
 }
 button:hover {
     background-color: #82FF9E;}
+body{background-color: #ffc61a}
+img{width: 200px;}
+#navigation{
+    margin: 100px;
+    font-family: poppins;
+    text-align: center;
+    text-size-adjust: auto;
+}
+    @media (min-width: 576px) {
+        h1{}
+    }
+}
