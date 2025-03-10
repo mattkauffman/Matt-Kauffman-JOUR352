@@ -4,55 +4,79 @@
  * #44CCFF
  * #FFC145 */
 
-@media { 
-h1{
-    color: white;
-    font-family: poppins;
-    font-weight: bold;
-    background-color: #0c8346;
-    border-style: solid;
-    border-color: white;
-    margin: 3 px; 
-    border-radius: 10px;
-    text-align: center;
-    text-decoration: underline;
-    
-}
-h2{
-    font-family: poppins;
-    background-color: #0c8346;
-    border-style: solid;
-    color: white;
-    border-radius: 10px;
-    text-align: center
-}
-img{
-    width: 100%
-}
-button {
-    background-color: #44CCFF;
-    color: #311E10;
-    font-family: "Merriweather", serif; 
-    font-style: italic;
-    font-weight: bold;
-    font-size: 20px;
-    width: 200px;
-    padding: 10px;
-    margin: 10px;
-    border:none; 
-    border-radius: 15px; /* Rounded corners */
-}
-button:hover {
-    background-color: #82FF9E;}
-body{background-color: #ffc61a}
-img{width: 200px;}
-#navigation{
-    margin: 100px;
-    font-family: poppins;
-    text-align: center;
-    text-size-adjust: auto;
-}
+@media {
+    h1 {
+        color: white;
+        font-family: poppins;
+        font-weight: bold;
+        background-color: #0c8346;
+        border-style: solid;
+        border-color: white;
+        margin: 3 px;
+        border-radius: 10px;
+        text-align: center;
+        text-decoration: underline;
+    }
+    #subtitle {
+        font-family: poppins;
+        background-color: #0c8346;
+        border-style: solid;
+        color: white;
+        border-radius: 10px;
+        text-align: center;
+    }
+    img {
+        width: 100%;
+    }
+    button {
+        background-color: #82FF9E;
+        color: #311e10;
+        font-family: "Merriweather", serif;
+        font-style: italic;
+        font-weight: bold;
+        font-size: 20px;
+        width: 200px;
+        padding: 10px;
+        margin: 10px;
+        border: none;
+        border-radius: 15px; /* Rounded corners */
+    }
+    button:hover {
+        background-color: white;
+    }
+    body {
+        background-color: #ffc61a;
+    }
+    img {
+        width: 200px;
+    }
+    #navigation {
+        margin: 100px;
+        font-family: "Poppins", sans serif;
+        text-align: center;
+        background-color:#0c8346;
+        border: none;
+        padding-top: 6px;
+        color: white;
+    }
+    #navigation a hover{
+        color:white;
+        text-decoration: none;
+        text-transform: 
+    }
     @media (min-width: 576px) {
-        h1{}
+        h1 {
+    
+            margin: 50px 0px 0px 50px;
+        }
+        img {
+            width: 60%;
+        }
+        #subtitle {
+            margin-top: 50px;
+            
+            
+        }
     }
 }
+
