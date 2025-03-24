@@ -1,17 +1,36 @@
-/*
-MY COLOR PALETTE
-Color 1 - #82FF9E
-Color 2 - #0C8346
-Color 3 - #311E10
-Color 4 - #44CCFF
-Color 5 - #FFC145
-*/
-body {
-    background-color: beige;
+/* #82FF9E
+ * #0C8346
+ * #311E10
+ * #44CCFF
+ * #FFC145 */
+
+@media { 
+h1{
+    color: white;
+    font-family: poppins;
+    font-weight: bold;
+    background-color: #0c8346;
+    border-style: solid;
+    border-color: white;
+    margin: 3 px; 
+    border-radius: 10px;
     text-align: center;
+    text-decoration: underline;
+    
+}
+h2{
+    font-family: poppins;
+    background-color: #0c8346;
+    border-style: solid;
+    color: white;
+    border-radius: 10px;
+    text-align: center
+}
+img{
+    width: 100%
 }
 button {
-    background-color: #82FF9E;
+    background-color: #44CCFF;
     color: #311E10;
     font-family: "Merriweather", serif; 
     font-style: italic;
@@ -24,12 +43,25 @@ button {
     border-radius: 15px; /* Rounded corners */
 }
 button:hover {
-    background-color: #44CCFF;
+    background-color: #82FF9E;}
+body{background-color: #ffc61a}
+img{width: 200px;}
+#navigation{
+    margin: 100px;
+    font-family: poppins;
+    text-align: center;
+    text-size-adjust: auto;
+    background-color: #0c8346;
+    padding-top: 10px;
+    text-size-adjust: auto;
 }
-h1 {
-    font-family: "DM Serif Text", serif;
+    @media (min-width: 576px) {
+        h1{
+            font-size: 100px;
+            margin: 50px 0px 0px 50px;
+        }
+        img{
+            width:60%;
+        }
+    }
 }
-h2 {
-    font-family: "Merriweather", serif;
-}
-
