@@ -1,0 +1,16 @@
+h1{
+    font-family: Georgia, sans-serif;
+    font-weight: bold; 
+    margin-top: 50px;
+    text-align: center;
+}
+h3{
+    text-decoration: underline;
+    font-family: Georgia, sans serif;
+    margin-top: 25px;
+}
+p{
+    color: blue;
+    font-family: Georgia, sans-serif;
+    margin-top: 20px;
+}
