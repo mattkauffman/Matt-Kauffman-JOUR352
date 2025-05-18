@@ -37,7 +37,8 @@
         background-size: cover;
         background-position: center;
         margin-bottom: 20px;
-        border:solid, 1px;
+        border:solid 1px;
+        min-height: 300px;
     
     }
     #appastext {
@@ -50,7 +51,8 @@
         background-size: cover;
         background-position: center;
         margin-bottom: 20px;
-        border: solid, 1px;
+        border: solid 1px;
+        min-height: 300px; 
     }
     #sapmitext {
         font-family: "Cabin Sketch", sans-serif;
@@ -87,7 +89,8 @@
         background-size: cover;
         background-position: center;
         margin-bottom: 20px;
-        border: solid, 2px;
+        border: solid 2px;
+        min-height: 300px;
     }
 
     #reindeertext {
@@ -101,7 +104,8 @@
         background-size: cover;
         background-position:center;
         margin-bottom: 20px;
-        border: solid, 2px;
+        border: solid 2px;
+        min-height: 300px;
     }
     #sierrastext {
         font-family: "Cabin Sketch", sans-serif;
@@ -121,14 +125,14 @@
         text-decoration: underline;
     }
     #chart{
-        border: solid, 5px;
+        border: solid 5px;
     }
     #map{
-        border: solid, 5px;
+        border: solid 5px;
     }
     #seaturtle{
          margin-bottom: 20px;
-        border: solid, 2px;
+        border: solid 2px;
     }
     #Vanessa{
         font-size: 10px;
@@ -152,6 +156,6 @@
         font-size: 80px;
     }
     #body {
-        width: 65%;
+        width: 75%;
     }
 }
