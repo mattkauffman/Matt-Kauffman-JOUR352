@@ -2,154 +2,153 @@
  * 
  * 
  */
-@media screen {
-    h1 {
-        font-family: "Cabin Sketch", sans-serif;
-        color: black;
-        margin-top: 21px;
-        padding-right: 60%;
-    }
-    img {
-        width: 100%;
-    }
-    #topper {
-        background-image: url(sami_skier.jpg);
-        background-size: cover;
-        background-position: 25% 25%;
-        margin-bottom: 21px;
-    }
-    h2 {
-        margin-top: 600px;
-        text-align: right;
-        font-family: "Bree Serif", serif;
-    }
-    h3 {
-        text-align: right;
-        font-family: "Bree Serif", serif;
-    }
-    p {
-        font-size: 21px;
-        font-family: "Bree Serif", serif;
-        margin-bottom: 20px;
-    }
-    #appas{
-        background-image: url(appas.jpg);
-        background-size: cover;
-        background-position: center;
-        margin-bottom: 20px;
-        border:solid 1px;
-        min-height: 300px;
-    
-    }
-    #appastext {
-        font-family: "Cabin Sketch", sans-serif;
-        text-align: center;
-        font-size: 40px;
-    }
-    #sapmi{
-        background-image: url(sapmi%20region.jpg);
-        background-size: cover;
-        background-position: center;
-        margin-bottom: 20px;
-        border: solid 1px;
-        min-height: 300px; 
-    }
-    #sapmitext {
-        font-family: "Cabin Sketch", sans-serif;
-        text-align: center;
-        margin-right: 100px;
-        font-size: 50px;
-    }
-    h6 {
-        text-align: center;
-        font-family: "Cabin Sketch", serif;
-        font-weight: bold;
-        font-style: italic;
-        font-size: 31px;
-        margin-top: 21px;
-        margin-bottom: 21px;
-        margin-left: 30px;
-        margin-right: 30px;
-        border-top: solid;
-        border-bottom: solid;
-        border-width: thick;
-        padding: 10px;
-    }
-    h4 {
-        text-align: center;
-        margin-top: 50px;
-        margin-bottom: 50px;
-        font-weight: bold;
-        font-family: "Bree Serif", serif;
-        text-decoration: underline;
-        font-size: 40px;
-    }
-    #reindeer{
-        background-image: url(reindeer.2.avif);
-        background-size: cover;
-        background-position: center;
-        margin-bottom: 20px;
-        border: solid 2px;
-        min-height: 300px;
-    }
+@media screen{
+h1 {
+    font-family: "Cabin Sketch", sans-serif;
+    color: black;
+    margin-top: 21px;
+    padding-right: 60%;
+}
+img {
+    width: 100%;
+}
+#topper {
+    background-image: url(sami_skier.jpg);
+    background-size: cover;
+    background-position: 25% 25%;
+    margin-bottom: 21px;
+}
+h2 {
+    margin-top: 600px;
+    text-align: right;
+    font-family: "Bree Serif", serif;
+}
+h3 {
+    text-align: right;
+    font-family: "Bree Serif", serif;
+}
+p {
+    font-size: 21px;
+    font-family: "Bree Serif", serif;
+    margin-bottom: 20px;
+}
+#appas {
+    background-image: url(appas.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 20px;
+    border: solid 1px;
+    min-height: 300px;
+}
+#appastext {
+    font-family: "Cabin Sketch", sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+#sapmi {
+    background-image: url(sapmi%20region.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 20px;
+    border: solid 1px;
+    min-height: 300px;
+}
+#sapmitext {
+    font-family: "Cabin Sketch", sans-serif;
+    text-align: center;
+    margin-right: 100px;
+    font-size: 50px;
+}
+h6 {
+    text-align: center;
+    font-family: "Cabin Sketch", serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 31px;
+    margin-top: 21px;
+    margin-bottom: 21px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-top: solid;
+    border-bottom: solid;
+    border-width: thick;
+    padding: 10px;
+}
+h4 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight: bold;
+    font-family: "Bree Serif", serif;
+    text-decoration: underline;
+    font-size: 40px;
+}
+#reindeer {
+    background-image: url(reindeer.2.avif);
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 20px;
+    border: solid 2px;
+    min-height: 300px;
+}
 
-    #reindeertext {
-        font-family: "Cabin Sketch", sans-serif;
-        text-align: center;
-        margin-right: 100px;
-        font-size: 50px;
-    }
-    #sierras{
-        background-image: url(sierras.webp);
-        background-size: cover;
-        background-position:center;
-        margin-bottom: 20px;
-        border: solid 2px;
-        min-height: 300px;
-    }
-    #sierrastext {
-        font-family: "Cabin Sketch", sans-serif;
-        text-align: center;
-        margin-right: 100px;
-        font-size: 50px;
-    }
+#reindeertext {
+    font-family: "Cabin Sketch", sans-serif;
+    text-align: center;
+    margin-right: 100px;
+    font-size: 50px;
+}
+#sierras {
+    background-image: url(sierras.webp);
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 20px;
+    border: solid 2px;
+    min-height: 300px;
+}
+#sierrastext {
+    font-family: "Cabin Sketch", sans-serif;
+    text-align: center;
+    margin-right: 100px;
+    font-size: 50px;
+}
 
-    #disclaimer {
-        font-size: small;
-        text-align: left;
-        font-style: italic;
-    }
-    .highlight {
-        text-align: center;
-        font-size:medium;
-        text-decoration: underline;
-    }
-    #chart{
-        border: solid 5px;
-    }
-    #map{
-        border: solid 5px;
-    }
-    #seaturtle{
-         margin-bottom: 20px;
-        border: solid 2px;
-    }
-    #Vanessa{
-        font-size: 10px;
-    }
-    #SierraClub{
-        font-size: 10px;
-    }
-    #OneTwoThree{
-        font-size: 10px;
-    }
-    #slideserve{
-        font-size: 10px;
-    }
-    #px{
-        font-size: 10px; 
-        margin-top: 0 px; 
-    }
+#disclaimer {
+    font-size: small;
+    text-align: left;
+    font-style: italic;
+}
+.highlight {
+    text-align: center;
+    font-size: medium;
+    text-decoration: underline;
+}
+#chart {
+    border: solid 5px;
+}
+#map {
+    border: solid 5px;
+}
+#seaturtle {
+    margin-bottom: 20px;
+    border: solid 2px;
+}
+#Vanessa {
+    font-size: 10px;
+}
+#SierraClub {
+    font-size: 10px;
+}
+#OneTwoThree {
+    font-size: 10px;
+}
+#slideserve {
+    font-size: 10px;
+}
+#px {
+    font-size: 10px;
+    margin-top: 0 px;
+}
 }
 @media (min-width: 576px) {
     h1 {
@@ -157,5 +156,26 @@
     }
     #body {
         width: 75%;
+    }
+}
+@media (max-width: 575.98px) {
+    h1 {
+        font-size: 50px;
+    }
+    #sierrastext {
+        font-size: 30px;
+        text-align: center;
+    }
+    #appastext {
+        font-size: 30px;
+        text-align: center;
+    }
+    #reindeertext {
+        font-size: 30px;
+        text-align: center;
+    }
+    #sapmitext {
+        font-size: 30px;
+        text-align: center;
     }
 }
